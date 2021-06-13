@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning Software Engineer
 - 👯 I’m looking to collaborate on every platform
 - 🤔 I’m looking for help with partner
-- 💬 Ask me about [vantrung060101@gmail.com]
+- 💬 Ask me about: [vantrung060101@gmail.com]
 - 📫 How to reach me social network or email
-- 😄 Pronouns nothing :))))
+- 😄 Pronouns: nothing :))))
 - ⚡ Fun fact: i love football, e-sports, more and more :))))
 
 <h3 align="left">Connect with me:</h3>
