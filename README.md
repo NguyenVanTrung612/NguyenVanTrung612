@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Trung</h1>
-<h3 align="center">I'm learn Software Engineer and become a Web Developer</h3>
+<h3 align="center">I'm learn Software Engineer and I favorite Web Application</h3>
 
 - 🔭 I’m currently working on at University
 - 🌱 I’m currently learning Software Engineer
