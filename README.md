@@ -1,6 +1,8 @@
+ 
 
 
-
+<h1 align="center">Hi 👋, I'm Nguyen Van Trung</h1>
+<h3 align="center">I'm learn Software Engineer and become a Web Developer</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,11 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
- 
-
-
-<h1 align="center">Hi 👋, I'm Nguyen Van Trung</h1>
-<h3 align="center">I'm learn Software Engineer and become a Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
