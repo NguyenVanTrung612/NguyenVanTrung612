@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on every platform
 - 🤔 I’m looking for help with partner
 - 💬 Ask me about: [vantrung060101@gmail.com]
-- 📫 How to reach me social network or email
+- 📫 How to reach me: social network or email
 - 😄 Pronouns: nothing :))))
 - ⚡ Fun fact: i love football, e-sports, more and more :))))
 
