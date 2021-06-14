@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on at University
 - 🌱 I’m currently learning Software Engineer
 - 👯 I’m looking to collaborate on every platform
-- 🤔 I’m looking for help with partner
+- 🤔 I’m looking for with partner
 - 💬 Ask me about: [vantrung060101@gmail.com]
 - 📫 How to reach me: social network or email
 - 😄 Pronouns: nothing :))))
