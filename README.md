@@ -13,6 +13,9 @@
 - 😄 Pronouns: nothing :))))
 - ⚡ Fun fact: i love football, e-sports, more and more :))))
 
+<p><img align="right" src="https://github.com/NguyenVanTrung612/NguyenVanTrung612/blob/main/avento.gif" alt="gif" width="500" height="320"></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nv-trung-665a89207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nv-trung-665a89207/" height="30" width="40" /></a>
