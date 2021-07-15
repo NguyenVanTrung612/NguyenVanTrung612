@@ -13,7 +13,7 @@
 - 😄 Pronouns: nothing :))))
 - ⚡ Fun fact: i love football, e-sports, more and more :))))
 
-<p><img align="right" src="https://github.com/NguyenVanTrung612/NguyenVanTrung612/blob/main/avento.gif" alt="gif" width="500" height="320"></p>
+<p><img  src="https://github.com/NguyenVanTrung612/NguyenVanTrung612/blob/main/avento.gif" alt="gif" width="500" height="320"></p>
 
 
 <h3 align="left">Connect with me:</h3>
