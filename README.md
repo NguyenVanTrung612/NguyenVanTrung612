@@ -23,7 +23,9 @@
 </p>
 
 <h3 align="left">Summary:</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612" alt=""></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612&layout=compact"/>
+
+
  
 
 
