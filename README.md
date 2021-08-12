@@ -23,7 +23,7 @@
 </p>
 
  <h3 align="left">Summary:</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612" alt=""></p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612
 
 
 <h3 align="left">Languages and Tech:</h3>
