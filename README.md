@@ -23,7 +23,7 @@
 </p>
 
 <h2> align="left">Summary:</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612)](https://github.com/NguyenVanTrung612/github-readme-stats)
 
 
 <h3 align="left">Languages and Tech:</h3>
