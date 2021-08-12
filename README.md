@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Summary:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612&layout=compact"/>
+<img width= "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612&layout=compact"/>
 
 
  
