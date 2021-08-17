@@ -23,9 +23,6 @@
 
 ### 😉 Latest Project
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 [website]: https://nguyenvantrung612.github.io/Ecommerce-Website/
 
 <h3 align="left">Languages and Tech:</h3>
