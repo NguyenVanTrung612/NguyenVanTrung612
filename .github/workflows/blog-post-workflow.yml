@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          gh_token: "https://github.com/NguyenVanTrung612"
+          gh_token: "https://github.com/news/author/NguyenVanTrung612/rss"
