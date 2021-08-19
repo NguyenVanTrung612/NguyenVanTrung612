@@ -21,8 +21,7 @@
 <h3 align="left">Summary:</h3>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612&layout=compact"/>
 
-<h3 align="left">Latest Project:</h3>
-"https://nguyenvantrung612.github.io/Ecommerce-Website/">
+
 
 
 <h3 align="left">Languages and Tech:</h3>
