@@ -22,7 +22,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612&layout=compact"/>
 
 ### Latest Project:
-- [ECM-Website](https://nguyenvantrung612.github.io/Ecommerce-Website/)
+- [Landing Page Ecommerce](https://nguyenvantrung612.github.io/Ecommerce-Website/)
 - [Form Sign in & Sign up](https://nguyenvantrung612.github.io/Form-SignIn-SignUp/)
 
 
