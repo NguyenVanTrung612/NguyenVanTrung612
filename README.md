@@ -24,6 +24,7 @@
 ### Latest Project:
 - [Landing Page Ecommerce](https://nguyenvantrung612.github.io/Ecommerce-Website/)
 - [Form Sign in & Sign up](https://nguyenvantrung612.github.io/Form-SignIn-SignUp/)
+- [Landing Page NVT-Courses](https://nguyenvantrung612.github.io/NVT_Courses/)
 
 
 <h3 align="left">Languages and Tech:</h3>
